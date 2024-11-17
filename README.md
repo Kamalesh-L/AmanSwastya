@@ -1,4 +1,4 @@
-# Aman Swastya
+# Aman Swastya 💪🏻🏋🏻‍♀️
 
 **Aman Swastya** is a health and wellness mobile application designed to help users track their fitness, manage their health data, and interact through a chatbot for health-related queries. The app is built using **Flutter** and integrates **Firebase** for user authentication and real-time data management.
 
