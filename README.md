@@ -1,18 +1,38 @@
-# first_app
+# Aman Swastya
 
-A new Flutter project.
+**Aman Swastya** is a health and wellness mobile application designed to help users track their fitness, manage their health data, and interact through a chatbot for health-related queries. The app is built using **Flutter** and integrates **Firebase** for user authentication and real-time data management.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- **User Authentication**:  
+  - Secure login and logout functionality using Firebase Authentication.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Bottom Navigation Bar**:  
+  - Navigate between different sections seamlessly with a modern UI.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Home Page**:  
+  - Displays user information and provides an overview of the app's functionalities.
 
-git tutorial: https://youtu.be/mTemJGanZTM
+- **Fitness Tracker**:  
+  - Track and manage fitness-related data.
+
+- **Profile Management**:  
+  - Users can view and update their profile details.
+
+- **Chatbot Integration**:  
+  - An interactive chatbot for health-related queries.
+
+---
+
+## Tech Stack
+
+- **Framework**: Flutter  
+- **Programming Language**: Dart  
+- **Backend Services**: Firebase Authentication, Firebase Realtime Database  
+- **IDE**: Android Studio / Visual Studio Code  
+
+---
+
+
