@@ -34,5 +34,16 @@
 - **IDE**: Android Studio / Visual Studio Code  
 
 ---
+## Screenshots
+
+Below are the screenshots showcasing the features of **Aman Swastya**:
+
+| Login Page          | Home Page          | Step Counter       |
+|---------------------|--------------------|--------------------|
+| ![Login](https://github.com/Kamalesh-L/AmanSwastya/blob/c33f42f98bc3b3a66a4c448f67afb10c6113f028/login.jpeg?raw=true) | ![Home](https://github.com/Kamalesh-L/AmanSwastya/blob/c33f42f98bc3b3a66a4c448f67afb10c6113f028/home.jpeg?raw=true) | ![Step Counter](https://github.com/Kamalesh-L/AmanSwastya/blob/c33f42f98bc3b3a66a4c448f67afb10c6113f028/stepCount.jpeg?raw=true) |
+
+| Profile Page         | Tutorial Page      | Chatbot Page       |
+|---------------------|--------------------|--------------------|
+| ![Profile](https://github.com/Kamalesh-L/AmanSwastya/blob/c33f42f98bc3b3a66a4c448f67afb10c6113f028/profile.jpeg?raw=true) | ![Tutorial](https://github.com/Kamalesh-L/AmanSwastya/blob/c33f42f98bc3b3a66a4c448f67afb10c6113f028/tutorial.jpeg?raw=true) | ![Chatbot](https://github.com/Kamalesh-L/AmanSwastya/blob/c33f42f98bc3b3a66a4c448f67afb10c6113f028/chatbot.jpeg?raw=true) |
 
 
